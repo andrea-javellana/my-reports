@@ -3,8 +3,15 @@ A repository to easily access the final products of my analytical and evidence-b
 
 
 ## Report Titles
-In ascending order:
-- ontario
+In order:
+- National support for the death penalty dropped by 1.5% while
+state-level favouribility changed over 3% in just three years
+- Parental divorce in Canada shows diminutive effects on children’s
+future relationships
+- Level of Satisfaction with Ontario’s Current Leadership during the
+COVID-19 Pandemic
+- Biden to win the popular vote in the 2020 American presidential
+elections in a closely fought contest
 
 
 ## Reproducibility
