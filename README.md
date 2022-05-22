@@ -1,5 +1,5 @@
 # My Reports
-A repository to easily access the final products of my analytical and evidence-based reports.
+A repository to easily access the final outputs of my analytical and evidence-based reports. These reports explore demographic trends across Canada and America focusing on areas in politics and current events.
 
 
 ## Report Titles
